@@ -1,0 +1,15 @@
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\bin\Debug\net6.0\MulticastStuff.exe
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\bin\Debug\net6.0\MulticastStuff.deps.json
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\bin\Debug\net6.0\MulticastStuff.runtimeconfig.json
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\bin\Debug\net6.0\MulticastStuff.dll
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\bin\Debug\net6.0\ref\MulticastStuff.dll
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\bin\Debug\net6.0\MulticastStuff.pdb
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.AssemblyInfo.cs
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.dll
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\ref\MulticastStuff.dll
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.pdb
+C:\Users\marku\source\repos\MulticastStuff\MulticastStuff\obj\Debug\net6.0\MulticastStuff.genruntimeconfig.cache
